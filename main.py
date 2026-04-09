@@ -1,4 +1,7 @@
-# // (c) 2026 Guillermo Roger Hernandez Chandia - ADS
+# (c) 2026 Guillermo Roger Hernandez Chandia - ADS
+# Copyright: (c) 2026 - Guillermo Roger Hernandez Chandia.
+# Status: All Rights Reserved (Todos os Direitos Reservados).
+# Contexto: Projeto acadêmico de Análise e Desenvolvimento de Sistemas (ADS).
 import os
 from dotenv import load_dotenv
 from fastapi import FastAPI, Response, Depends, HTTPException, Header, Security
