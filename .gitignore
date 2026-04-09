@@ -1,0 +1,11 @@
+# Não subir o banco de dados (Seus dados reais)
+*.db
+fraud_logs.db
+
+# Não subir as chaves secretas (Sua proteção)
+.env
+
+# Não subir lixo do Python e Docker
+__pycache__/
+*.pyc
+.pytest_cache/
